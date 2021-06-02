@@ -1,4 +1,4 @@
-<p><img align="right" alt="gif" src="https://media.discordapp.net/attachments/829804854586769428/849666014688837712/pngegg.png?width=549&height=390" /></p>
+<p><img align="right" alt="gif" src="https://media.discordapp.net/attachments/829804854586769428/849666014688837712/pngegg.png?width=549&height=390" width="500" height="400" /></p>
 <p align="center">
 </a> <img src="https://komarev.com/ghpvc/?username=syrusrose&color=46eb34"/> </p>
 
