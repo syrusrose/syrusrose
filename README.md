@@ -6,7 +6,7 @@
 <h1 align="center">
 <em>Accept a rose?</em>
 <h3>Passionate programming student.
-💻 ┇ 𝐃𝐞𝐬𝐭𝐢𝐧𝐲 <h3>
+📁 ┇ 𝐃𝐞𝐬𝐭𝐢𝐧𝐲 <h3>
 </h1>
 <b>
 </b>
