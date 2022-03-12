@@ -5,7 +5,7 @@
 <pre align="center">
 <h1 align="center">
 <em>Accept a rose?</em>
-<h3>Passionate programming student.
+<h3>Passionate student.
 📁 ┇ 💻<h3>
 </h1>
 <b>
